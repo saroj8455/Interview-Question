@@ -4,7 +4,8 @@
   "description": "MERN/MEAN Interview Question",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/saroj8455/Interview-Question/issues"
   },
-  "homepage": "https://github.com/saroj8455/Interview-Question#readme"
+  "homepage": "https://github.com/saroj8455/Interview-Question#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
