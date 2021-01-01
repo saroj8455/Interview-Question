@@ -1,0 +1,20 @@
+{
+  "name": "interview-question",
+  "version": "1.0.0",
+  "description": "MERN/MEAN Interview Question",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saroj8455/Interview-Question.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saroj8455/Interview-Question/issues"
+  },
+  "homepage": "https://github.com/saroj8455/Interview-Question#readme"
+}
