@@ -1,5 +1,6 @@
 {
   "name": "interview-question",
+  "type": "module",
   "version": "1.0.0",
   "description": "MERN/MEAN Interview Question",
   "main": "index.js",
