@@ -40,3 +40,13 @@ fetch("https://jsonplaceholder.typicode.com/users")
   .catch((error) => {
     console.log(error);
   });
+
+// Javascript Date
+console.log(Date.now());
+console.log(Date.toString(Date.now()));
+
+const ts = new Date();
+console.log(ts.toTimeString());
+console.log(ts.toDateString());
+const log = `${ts.toTimeString()} ${ts.toDateString()}`;
+console.log(log);
