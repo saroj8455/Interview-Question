@@ -42,4 +42,8 @@ The event loop is what allows Node.js to perform non-blocking I/O operations.
 
 ## What is prototype in JS
 
+## How to configure jasmin and karma in cli 
+
+## How to configure jest in nodejs application
+
 
